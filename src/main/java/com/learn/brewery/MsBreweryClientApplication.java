@@ -1,4 +1,4 @@
-package com.learn.brewery.client;
+package com.learn.brewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
