@@ -1,4 +1,4 @@
-package com.learn.brewery.client;
+package com.learn.brewery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
